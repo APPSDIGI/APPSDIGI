@@ -1,25 +1,23 @@
 {
-  "Ads": [
-    {
-      "app_id": "ca-app-pub-3940256099942544~3347511711",
-      "banner_id": "ca-app-pub-3940256099942544/6300978112",
-      "interstitial_id": "ca-app-pub-3940256099942544/1033173713",
-      "native_id": "ca-app-pub-3940256099942544/2247696114",
-      "qureka_ads": "https://205.go.mglgamez.com/",
-      "status": true,
-      "splash_ads": false
-    },
-    {
-      "app_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "banner_id": "706188887340114_706189074006762",
-      "interstitial_id": "706188887340114_706189417340061",
-      "interstitial_id1": "706188887340114_706190067339996",
-      "interstitial_id2": "706188887340114_706190187339984",
-      "native_id": "706188887340114_706189764006693",
-      "native_banner_id": "706188887340114_706189617340041",
-      "rectangle_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "status": true,
-      "splash_ads": false
-    }
-  ]
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"https://play.google.com/store/apps/details?id=com.Ranchsimulatarguide.freeguideranch",
+   "app_AppOpenAdStatus":"0",
+   "app_dialogBeforeAdShow":"0",
+   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+   "app_howShowAd":"0",
+   "qureka":"https://747.win.predchamp.com/",
+   "more_app":"https://raw.githubusercontent.com/filepro23/filepro/main/appslink.json",
+   "admob_showAdStatus":"1",
+   "AppID":"ca-app-pub-7978671979818789~9948113374",
+   "Admob_Banner":"ca-app-pub-7978671979818789/7614374328",
+   "Admob_Interstitial":"ca-app-pub-7978671979818789/3483557629",
+   "Admob_Native":"ca-app-pub-7978671979818789/8144895353",
+   "AppOpen":"ca-app-pub-7978671979818789/3027481808",
+   "fbad_showStatus":"0",
+   "fb_banner":"1772625813084415_1772626503084346",
+   "fb_inter1":"1772625813084415_1772626629751000",
+   "fb_inter2":"1772625813084415_1772626719750991",
+   "fb_inter3":"1772625813084415_1772626629751000",
+   "fb_native":"1772625813084415_1772626929750970",
+   "fb_nativebanner":"1772625813084415_1772627313084265"
 }
